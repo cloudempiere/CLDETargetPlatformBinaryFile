@@ -1,0 +1,1 @@
+p2.maven/org.cloudempiere-p2/plugins/com.amazonaws.aws-java-sdk-osgi_1.11.813.jar filter=lfs diff=lfs merge=lfs -text
